@@ -41,6 +41,12 @@ Learning by building projects and understanding fundamentals.
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
   </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/beautiful-soup/beautiful-soup-icon.svg" width="40" height="40"/>
+  </a>
 </p>
 
 ---
