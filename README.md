@@ -9,7 +9,7 @@ Learning by building projects and understanding fundamentals.
 ### 🧠 Current Focus
 - Learning **Machine Learning, Deep Learning, and Reinforcement Learning**
 - Building projects while learning to gain **deep understanding of AI concepts**
-- Exploring **computer vision, image processing, and AI agents**
+- Exploring **computer vision, image processing, LLms and AI agents**
 
 ---
 
