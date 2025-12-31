@@ -36,16 +36,16 @@ Learning by building projects and understanding fundamentals.
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+    <img src="https://www.netdata.cloud/img/pandas.png" width="40" height="40"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/473780/selenium.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/beautiful-soup/beautiful-soup-icon.svg" width="40" height="40"/>
+  <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP37fn5a8Yi0HUbezKU88bme8v8gRqwZ6p9g&s" width="40" height="40"/>
   </a>
 </p>
 
