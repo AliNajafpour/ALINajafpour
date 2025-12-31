@@ -77,6 +77,9 @@ Learning by building projects and understanding fundamentals.
   <a href="https://leetcode.com/u/alinajafpour/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
   </a>
+  <a href="https://quera.org/profile/bh38f6" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/C4D0BAQGOojMZGgd04Q/company-logo_200_200/company-logo_200_200/0/1637478816527/quera_logo?e=2147483647&v=beta&t=Ht0V-F8YMl3sz0f2UR4MwSgYejRIeEHpiBNLux2_HPA" height="30" width="40"/>
+  </a>
 </p>
 
 ---
