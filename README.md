@@ -14,9 +14,10 @@ Learning by building projects and understanding fundamentals.
 ---
 
 ### 🌱 Currently Learning
-- Machine Learning (ML)
-- Deep Learning (DL)
-- Reinforcement Learning (RL)
+- ML & DL
+- Reinforcement Learning
+- LLMs and Agents
+- Image Proccessing
 
 ---
 
