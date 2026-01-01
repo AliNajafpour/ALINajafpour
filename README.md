@@ -93,13 +93,6 @@ Learning by building projects and understanding fundamentals.
 ### ♟️ Interests (Other than Code)
 
 - **Chess**
-  - Play with me: <a href="https://www.chess.com/member/checkmate-iscoming" target="_blank">
-    <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/Wind/phpHhI58s.png"
-         alt="Play Chess with me on Chess.com"
-         width="20" height="20"/>
-  </a>
-  
-
 - **Books** 
 - **Movies** 
 ---
