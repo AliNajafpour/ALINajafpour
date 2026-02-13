@@ -86,7 +86,7 @@ Learning by building projects and understanding fundamentals.
 
 ### 📫 Contact
 - **Email:** ali.najafpour07@gmail.com  
-- **Telegram:** @Ali_Najafpour07
+- **Telegram:** @Ali_NJ07
 
 ---
 
