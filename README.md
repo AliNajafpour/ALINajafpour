@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">
-High school student interested in Computer Science, AI, and programming.<br>
+<h3 align="center">Student interested in Computer Science, AI, and programming.<br>
 Learning by building projects and understanding fundamentals.
 </h3>
 
